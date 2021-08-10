@@ -34,14 +34,14 @@
   <div style="display: flex" width="50%"> 
   <img align="center" alt="Pedrineo-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
   <img align="center" alt="Pedrineo-Angular" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
-  <img align="center" alt="Pedrineo-Angular" height="50em" src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg"> 
+  <img align="center" alt="Pedrineo-React" height="50em" src="https://iconape.com/wp-content/files/ec/371378/svg/371378.svg"> 
    
 </div> 
   
  ## 👀 Quero saber mais sobre
  
   <div style="display: flex" width="50%">
-  <img align="center" alt="Pedrineo-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Pedrineo-AWS" height="50em" src="https://iconape.com/wp-content/png_logo_vector/aws-3.png">
 
   
  </div> <hr/>
