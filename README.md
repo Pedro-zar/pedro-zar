@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Hi! Welcome to my gituser 🤗    
+#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Olá, bem vindo ao meu Github 🤗    
 
  <div>
   <a href="https://github.com/pedro-zar">
@@ -16,7 +15,7 @@
   </div>    
   
    
-  ## 👌 Actually using 
+  ## 👌 Usando atualmente
     
   <div style="display: flex" width="50%">
   <img align="center" alt="Pedrineo-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -30,7 +29,7 @@
                                                                                     
   
  
-  ## 🤔 Currently learning 
+  ## 🤔 Aprendendo
     
   <div style="display: flex" width="50%"> 
   <img align="center" alt="Pedrineo-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
@@ -38,7 +37,7 @@
    <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
 </div> 
   
- ## 👀 I want reading about.
+ ## 👀 Quero saber mais sobre
  
   <div style="display: flex" width="50%">
   <img align="center" alt="Pedrineo-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -46,10 +45,9 @@
   <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
  </div> <hr/>
  
- ### Contact me:
+ ### Contatos
   <div> 
-  <a href="https://www.linkedin.com/in/viviana-assis-573874212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vivianassis11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC-U5xQGEP6vFC50ed9IJiFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-zar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedrozar@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
