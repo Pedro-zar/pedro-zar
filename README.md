@@ -23,7 +23,7 @@
   <img align="center" alt="Pedrineo-Js" height="50em" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg">
   <img align="center" alt="Pedrineo-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Pedrineo-c-sharp" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
+  <img align="center" alt="Pedrineo-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
   <img align="center" alt="Pedrineo-Vs_Code" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
   <img align="center" alt="Pedrineo-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
 </div>          
@@ -33,7 +33,7 @@
   ## 🤔 Aprendendo
     
   <div style="display: flex" width="50%"> 
-  <img align="center" alt="Pedrineo-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
+  <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
    
 </div> 
