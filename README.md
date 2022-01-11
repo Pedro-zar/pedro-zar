@@ -34,7 +34,7 @@
     
   <div style="display: flex" width="50%"> 
   <img align="center" alt="Pedrineo-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
-  <img align="center" alt="Pedrineo-Angular" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
+  <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
    
 </div> 
   
