@@ -34,7 +34,8 @@
   ## 🤔 Aprendendo
     
   <div style="display: flex" width="50%"> 
-   <img align="center" alt="Pedrineo-VUE" height="50em" src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50"> 
+  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50"> 
+  <img align="center" alt="Pedrineo-Docker" height="50em" src="https://icon-library.com/images/docker-icon/docker-icon-15.jpg"> 
    
   </div> 
   
