@@ -35,7 +35,7 @@
   <div style="display: flex" width="50%"> 
   <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
-  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://spng.subpng.com/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg"> 
+  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50"> 
    
 </div> 
   
