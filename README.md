@@ -35,6 +35,7 @@
   <div style="display: flex" width="50%"> 
   <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
+  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://c0.klipartz.com/pngpicture/789/586/gratis-png-logotipo-de-vue-js-gris-y-verde-thumbnail.png"> 
    
 </div> 
   
