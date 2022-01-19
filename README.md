@@ -25,6 +25,7 @@
   <img align="center" alt="Pedrineo-SQL" height="50em" src="https://icons.veryicon.com/png/o/education-technology/onemind/senior-sql.png">
   <img align="center" alt="Pedrineo-Vs_Code" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
   <img align="center" alt="Pedrineo-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50">
 </div>          
                                                                                     
   
@@ -32,16 +33,16 @@
   ## 🤔 Aprendendo
     
   <div style="display: flex" width="50%"> 
-  <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
-  <img align="center" alt="Pedrineo-VUE" height="50em" src="https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50"> 
+   
    
 </div> 
   
- ## 👀 Também sei muito sobre
+ ## 👀 Também sei sobre
  
   <div style="display: flex" width="50%">
   <img align="center" alt="Pedrineo-c-sharp" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Pedrineo-IA" height="50em" src="https://icons.iconarchive.com/icons/matiasam/ios7-style/512/iA-icon.png"> 
+  <img align="center" alt="Pedrineo-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   
 
   
