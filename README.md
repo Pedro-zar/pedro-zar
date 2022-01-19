@@ -22,7 +22,6 @@
   <img align="center" alt="Pedrineo-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Pedrineo-Js" height="50em" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg">
   <img align="center" alt="Pedrineo-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Pedrineo-c-sharp" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Pedrineo-SQL" height="50em" src="https://icons.veryicon.com/png/o/education-technology/onemind/senior-sql.png">
   <img align="center" alt="Pedrineo-Vs_Code" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
   <img align="center" alt="Pedrineo-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
@@ -39,10 +38,11 @@
    
 </div> 
   
- ## 👀 Quero saber mais sobre
+ ## 👀 Também sei muito sobre
  
   <div style="display: flex" width="50%">
-  <img align="center" alt="Pedrineo-AWS" height="50em" src="https://iconape.com/wp-content/png_logo_vector/aws-3.png">
+  <img align="center" alt="Pedrineo-c-sharp" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+  
 
   
  </div> <hr/>
